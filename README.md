@@ -3,7 +3,7 @@
 Using "head.mesh" edited version to give "Extra Sensory Perception" or you can call it "ESP / Visual Hack".
 
 ## Disclaimer
-- "head.mesh" ESP
+- "head.mesh" ESP, completely undetected / antiban, no injection needed !
 ## How To Users
 - Open Roblox game folder > content > avatar > heads > now delete "head.mesh" and put "HeadESPLarge.mesh" or "HeadESPSmall.mesh" to your heads folder and rename it to "head.mesh" > Done. (best to use if you're playing CounterBlox)
 
